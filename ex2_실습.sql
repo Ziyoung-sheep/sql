@@ -40,4 +40,4 @@ book_image varchar(16)
 );
 SELECT * FROM book;
 
-drop table member;
+-- drop table member; 

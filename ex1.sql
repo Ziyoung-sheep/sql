@@ -18,7 +18,7 @@ USE testdb;
 
 CREATE TABLE sample(
 num int(2) primary key,
-name varchar(5) default '무명이',
+name varchar(5) defausamplelt '무명이',
 -- 컬럼이름 컬럼속성(길이) 값
 brith date not null,
 address varchar (255)
